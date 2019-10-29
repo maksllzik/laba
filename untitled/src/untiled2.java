@@ -1,0 +1,2 @@
+public class untiled2 {
+}
